@@ -1,3 +1,3 @@
 # Leetcode Problems
-[ ] uncompress string
-[X] compress string
+- [ ] uncompress string
+- [X] compress string
