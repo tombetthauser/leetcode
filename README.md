@@ -27,12 +27,98 @@
 - [ ] Create Linked List
 - [ ] Add Lists
 
-<!-- ### Binary Tree -->
-<!-- ### Graph -->
-<!-- ### Dynamic Programming -->
-<!-- ### Stack -->
-<!-- ### Exhaustive Recursion -->
-<!-- - [ ]  -->
+### Binary Tree
+- [ ] Depth First Values
+- [ ] Breadth First Values
+- [ ] Tree Sum
+- [ ] Tree Includes
+- [ ] Tree Min Value
+- [ ] Max Root to Leaf Path Sum
+- [ ] Tree Path Finder
+- [ ] Tree Value Count
+- [ ] How High
+- [ ] Bottom Right Value
+- [ ] All Tree Paths
+- [ ] Tree Levels
+- [ ] Level Averages
+- [ ] Leaf List
+
+### Graph
+- [ ] Has Path
+- [ ] Undirected Path
+- [ ] Connected Components Count
+- [ ] Largest Component
+- [ ] Shortest Path
+- [ ] Island Count
+- [ ] Minimum Island
+- [ ] Closest Carrot
+- [ ] Longest Path
+- [ ] Semesters Required
+- [ ] Best Bridge
+- [ ] Has Cycle
+- [ ] Prereqs Possible
+- [ ] Knight Attack
+
+### Dynamic Programming
+- [ ] Fibonacci
+- [ ] Tribonacci
+- [ ] Sum Possible
+- [ ] Min Change
+- [ ] Count Paths
+- [ ] Max Path Sum
+- [ ] Non-Adjacent Sum
+- [ ] Summing Squares
+- [ ] Counting Change
+- [ ] Array Stepper
+- [ ] Max Palin Subsequence
+- [ ] Overlap Subsequence
+- [ ] Can Concat
+- [ ] Quickest Concat
+- [ ] Knightly Number
+
+### Stack
+- [ ] Paired Parentheses
+- [ ] Befitting Brackets
+- [ ] Decompress Brackets
+- [ ] Decompress Braces
+- [ ] Nesting Score
+
+### Exhaustive Recursion
+- [ ] Exhaustive Recursion Welcome
+- [ ] Subsets
+- [ ] Permutations
+- [ ] Create Combinations
+- [ ] Parenthetical Possibilities
+- [ ] Substitutive Synonyms
+
+### Mixed Recall
+- [ ] Linked Palindrome
+- [ ] Middle Value
+- [ ] Linked List Cycle
+- [ ] Lowest Common Ancestor
+- [ ] Flip Tree
+- [ ] Lefty Nodes
+- [ ] Can Color
+- [ ] Tolerant Teams
+- [ ] Rare Routing
+- [ ] Max Increasing Subseq
+- [ ] Positioning Plants
+- [ ] Breaking Boundaries
+- [ ] Merge Sort
+- [ ] Combine Intervals
+- [ ] Binary Search
+- [ ] Binary Search Tree Includes
+- [ ] Is Binary Search Tree
+- [ ] Post Order
+- [ ] Build Tree in Post
+- [ ] Build Tree in Pre
+- [ ] Lexical Order
+- [ ] Detect Dictionary
+- [ ] Topological Order
+- [ ] Safe Cracking
+- [ ] String Search
+- [ ] Token Replace
+- [ ] Token Transform
 
 ---
 
