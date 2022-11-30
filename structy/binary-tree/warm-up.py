@@ -17,12 +17,40 @@ b.left = d
 b.right = e
 c.right = f
 
-def treePrint(root):
+def bft(root):
+  if root is None: return []
+  vals = []
   children = [root]
   while len(children) > 0:
     newNode = children.pop()
-    print(newNode.val)
-    if newNode.left: children.append(newNode.left)
-    if newNode.right: children.append(newNode.right)
+    if newNode.left: children = [newNode.left] + children
+    if newNode.right: children = [newNode.right] + children
+    vals.append(newNode.val)
+  return vals
 
-treePrint(a)
+def dft(root):
+  if root is None: return []
+  vals = []
+  children = [root]
+  while len(children) > 0:
+    newNode = children.pop()
+    if newNode.right: children = children + [newNode.right]
+    if newNode.left: children = children + [newNode.left]
+    vals.append(newNode.val)
+  return vals
+
+def dft_recursive(root):
+  if root is None: return []
+  lefts = dft_recursive(root.left)
+  rights = dft_recursive(root.right)
+  return [root.val] + lefts + rights
+
+def bft_recursive(root):
+  if root is None: return []
+  lefts = bft_recursive(root.left) # [b, ]
+  rights = bft_recursive(root.right)
+  return [root.val] + lefts + rights
+
+
+print(bft(a))
+# print(bft_recursive(a))
